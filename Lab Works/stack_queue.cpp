@@ -197,7 +197,7 @@ int Queue::get_rear()
 
 int main()
 {
-    /*
+	/*
     Stack s1;
     s1.push(5);
     s1.push(8);
@@ -208,7 +208,7 @@ int main()
     cout<<""<<endl;
     s1.traverse();
     cout<<s1.peek();
-    */
+	*/
     /*
     Queue q1;
     q1.enqueue(4);
